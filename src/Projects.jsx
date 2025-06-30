@@ -18,11 +18,11 @@ const projects = [
     image: "/smart.png",
   },
   {
-    title: "Chatbot",
+    title: "Chat Application",
     description:
-      "Conversational chatbot designed to provide legal information and assist users with common legal queries.",
-    tags: ["Python", "flask", "HTML"],
-    link: "https://github.com/nhm20/Law-Chatbot",
+      "A real-time chat application that lets users  login with any username and chat with users.",
+    tags: ["ReactJS", "Node.js", "Socket-io","MongoDB"],
+    link: "https://github.com/nhm20/chatApplication",
     image: "/chatbot.png",
   },
 ];
